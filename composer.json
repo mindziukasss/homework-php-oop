@@ -1,0 +1,19 @@
+{
+    "name": "mindaugas/nfq-homework-php-oop",
+    "description": "Nfq homework PHP OOP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mindaugas Bernotas",
+            "email": "mindaugasbernotas2@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
